@@ -2,7 +2,7 @@
   import { onMount } from 'svelte';
   import axios from 'axios';
 
-  const API_URL = 'http://localhost:3001/api';
+  const API_URL = 'https://blockchain-kgvg.onrender.com/api';
 
   // Reactive variables
   let chain = [];
